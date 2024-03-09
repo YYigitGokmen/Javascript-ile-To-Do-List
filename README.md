@@ -4,4 +4,4 @@ PatikaAcademy / Front-end for beginners course Js To Do List Hw
 
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://jmp.sh/re5EaLui/giphy.gif)
